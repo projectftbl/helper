@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/support",
-  "version": "1.0.1",
+  "name": "@recipher/support",
+  "version": "1.0.2",
   "description": "Support components and code for React",
   "main": "dist/index",
   "scripts": {
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/support.git"
+    "url": "git@github.com:recipher/support.git"
   },
   "dependencies": {
-    "@ftbl/authorize": "^1.3.0",
+    "@recipher/authorize": "^1.3.0",
     "bluebird": "^3.3.5",
     "color": "^0.10.1",
     "hoist-non-react-statics": "^1.0.5",
@@ -31,7 +31,7 @@
     "url": "^0.11.0"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
